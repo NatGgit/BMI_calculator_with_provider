@@ -1,3 +1,6 @@
+Originally this project comes from a Flutter online bootcamp, but I've rewritten it with provider added as state managment tool
+
+
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
 
